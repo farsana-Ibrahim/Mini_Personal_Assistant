@@ -1,7 +1,5 @@
 # Personal Assistant with Hand Gesture & Voice Control - README
 
-![Personal Assistant Demo](https://via.placeholder.com/800x400/2c3e50/ffffff?text=Gesture+%26+Voice+Controlled+Assistant)
-
 A multi-modal personal assistant that combines hand gesture recognition and voice commands to control your computer. Switch seamlessly between voice and gesture modes for intuitive desktop control.
 
 ## 🎯 Features
